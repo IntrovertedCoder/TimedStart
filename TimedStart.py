@@ -84,7 +84,7 @@ def timeleftminsec(times):
 
 
 def timelefthourmin(times):
-        '''
+    '''
     Takes array with times in array. Based off those paramaters,
     Returns the ammount of seconds before system time is equal to specified time
     Returns false for invalid input
