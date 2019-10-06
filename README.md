@@ -20,5 +20,4 @@ timeleftminsec(['5:30', '7:30'])
 timelefthour([14, 17])  Returns the ammount of time before the hour hits the selected numbers.
 
 timelefthourmin(['6:30, 7:30])
-
 timelefthourminsec(['3 30 45', '4:30:45'])
