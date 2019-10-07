@@ -26,7 +26,7 @@ def timeleftmin(minutes):
     If you need hours, minutes and seconds:
     timelefthourminsec([arr])
     '''
-    returnArr 
+
     now = datetime.datetime.now()
     returnArr = []
     for minute in minutes:
@@ -66,7 +66,7 @@ def timeleftminsec(times):
     If you need hours, minutes and seconds:
     timelefthourminsec([arr])
     '''
-    returnArr 
+
     returnArr = []
 
     now = datetime.datetime.now()
@@ -108,7 +108,7 @@ def timelefthourmin(times):
     If you need hours, minutes and seconds:
     timelefthourminsec([arr])
     '''
-    returnArr 
+
     returnArr = []
 
     now = datetime.datetime.now()
@@ -150,7 +150,7 @@ def timelefthour(hours):
     If you need hours, minutes and seconds:
     timelefthourminsec([arr])
     '''
-    returnArr 
+
     now = datetime.datetime.now()
 
     returnArr = []
@@ -191,6 +191,7 @@ def timelefthourminsec(times):
     If you need hours, minutes and seconds:
     timelefthourminsec([arr])
     '''
+
     returnArr = []
 
     now = datetime.datetime.now()
