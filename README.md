@@ -2,7 +2,7 @@
 A simpler way to schedule a python script.
 
 Usage:
-
+```py
 import TimedStart
 
 import time
@@ -22,3 +22,4 @@ timelefthour([14, 17])  Returns the ammount of time before the hour hits the sel
 timelefthourmin(['6:30, 7:30])
 
 timelefthourminsec(['3 30 45', '4:30:45'])
+```
